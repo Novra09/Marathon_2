@@ -1,0 +1,27 @@
+button {
+        background-color:rgb(227, 90, 209);
+        color:white;
+        border: 0cm;
+}
+h1{
+    color:rgb(88, 32, 118);
+}
+
+
+img.foto_pertama {
+    height: 100px;
+    width: 200px;
+
+p.pertama{
+    color: rgb(133, 99, 165);
+    line-height: 50px;
+}
+
+}
+input{
+    color:darkviolet;
+}
+
+label {
+    color: blueviolet;
+}
